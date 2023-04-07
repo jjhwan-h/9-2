@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">9-2</string>
+    <string name="zoomin">zoomIn</string>
+    <string name="zoomout">zoomout</string>
+    <string name="spin">spin</string>
+    <string name="brighten">brighten</string>
+    <string name="darken">darken</string>
+    <string name="gary">gary</string>
+    <string name="gray">gray</string>
+</resources>
